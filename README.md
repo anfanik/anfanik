@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Andrew Anfanik 👋
+Java software engineer from Russia
 
-<!--
-**anfanik/anfanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Skills
+- Java, J2EE, Kotlin, Groovy
+- Maven, Gradle
+- Oracle Weblogic Server
+- Java Scripting Api, JavaScript, TypeScript
+- MySQL, SQLite, MongoDB, PostgreSQL, Oracle Database
+- Active MQ Artemis, Apache Kafka, IBM MQ
+- Docker, Kubernetes
 
-Here are some ideas to get you started:
+### 🔭 Contributions
+- [Recaf](https://github.com/Col-E/Recaf), the best bytecode editor for Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Contact
+- Telegram: [@anfanik](https://t.me/anfanik)
+- Email: me@anfanik.me
