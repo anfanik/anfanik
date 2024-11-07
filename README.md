@@ -11,8 +11,9 @@ Java software engineer from Russia
 - Docker, Kubernetes
 
 ### 🔭 Contributions
+- [java-telegram-bot-api](https://github.com/pengrad/java-telegram-bot-api), the most popular Telegram Bot API library for Java
 - [Recaf](https://github.com/Col-E/Recaf), the best bytecode editor for Java
 
 ### 💬 Contact
-- Telegram: [@anfanik](https://t.me/anfanik)
-- Email: me@anfanik.me
+- Telegram [@anfanik](https://t.me/anfanik)
+- Email me@anfanik.me
